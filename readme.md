@@ -77,3 +77,20 @@ For generating distillation targets from a CLIP model, refer to the correspondin
 
 * We use bilinear interpolation for resizing token-level outputs (attention maps, visual features) from expert CLIP to match the target Med-LVLM token resolution.
 
+
+### 📚 Reference
+
+If you use MedALIGN in your research, please cite:
+
+```bibtex
+@inproceedings{chang2026enhancing,
+  title={Enhancing Medical Large Vision-Language Models via Alignment Distillation},
+  author={Chang, Aofei and Wang, Ting and Ma, Fenglong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={24},
+  pages={19952--19960},
+  year={2026}
+}
+```
+
