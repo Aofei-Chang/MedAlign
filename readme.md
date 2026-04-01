@@ -1,5 +1,16 @@
 # MedAlign: Alignment Distillation for Medical LVLMs
 
+**Aofei Chang, Ting Wang, Fenglong Ma**
+
+<p align="center">
+  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+    <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg">
+  </a>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/XXXX">
+    <img src="https://img.shields.io/badge/AAAI-2026-blue.svg">
+  </a>
+</p>
+
 This repository provides the implementation of **MedAlign**, a lightweight distillation framework that transfers visual representation and attention alignment knowledge from expert medical CLIP models (e.g., UniMed-CLIP, BiomedCLIP) to existing Medical Large Vision-Language Models (Med-LVLMs), such as **HuatuoGPT-Vision** and **LLaVA-Med-1.5**.
 
 We include all code and resources necessary for generating distillation data, training models, and running evaluation on medical VQA and report generation benchmarks.
