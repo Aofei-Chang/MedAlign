@@ -3,10 +3,10 @@
 **Aofei Chang, Ting Wang, Fenglong Ma**
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+  <a href="https://arxiv.org/abs/2512.18554">
     <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg">
   </a>
-  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/XXXX">
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39079">
     <img src="https://img.shields.io/badge/AAAI-2026-blue.svg">
   </a>
 </p>
